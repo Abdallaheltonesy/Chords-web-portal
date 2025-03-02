@@ -88,6 +88,12 @@ const LoginPage: React.FC = () => {
         justifyContent: 'center',
         bgcolor: 'background.default',
         p: 2,
+        backgroundColor: '#93CBDD',
+        backgroundImage: `url('/medicine.webp')`,
+        backgroundPosition: '107% center', 
+        backgroundRepeat: 'no-repeat', 
+        backgroundSize: '40%',
+
       }}
     >
       <Card sx={{ maxWidth: 400, width: '100%' }}>
