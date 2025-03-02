@@ -100,7 +100,7 @@ const LoginPage: React.FC = () => {
         <CardContent sx={{ p: 4 }}>
           <Box sx={{ mb: 3, textAlign: 'center' }}>
             <Typography variant="h4" component="h1" gutterBottom>
-              Welcome to CHORDSS
+              Welcome to CHORDS
             </Typography>
             <Typography variant="body2" color="text.secondary">
               Canada Health Operations & Record Data System
